@@ -1,0 +1,2 @@
+Public IP Address of VM: 40.82.143.76
+Static Website access URL for Q3: https://pthapar.z12.web.core.windows.net/
